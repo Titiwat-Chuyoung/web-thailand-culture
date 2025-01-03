@@ -1,0 +1,15 @@
+input[type="checkbox"]:checked {
+    background-color: black;
+}
+
+.bg-custom {
+    background-image: url('../public/images/home-show-pic.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-custom-2 {
+    background-image: url('../public/images/footer-pic.png');
+    background-size: cover;
+    background-position: center;
+}   
